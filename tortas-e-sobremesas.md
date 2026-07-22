@@ -13,15 +13,15 @@ title: Tortas e Sobremesas
 
 **R$ 115,00 o kg.**
 
-## Torta de limão
-
-**R$ 115,00 o kg.**
-
 ## Torta alemã
+
+![Torta Camila](img/4_torta_alema_3.jpg)
 
 **R$ 115,00 o kg.**
 
 ## Cheesecake
+
+![Torta Camila](img/4_torta_cheesecake_2.jpg)
 
 **R$ 125,00 o kg.**
 

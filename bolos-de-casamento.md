@@ -27,4 +27,22 @@ Para bolos de andar: massa amanteigada e estruturada. Para bolos de corte: pão 
 
 4 leites, redução de frutas vermelhas, doce de leite, ganache de café, strogonoff de nozes em ponto firme, camafeu de nozes (brigadeiro branco com nozes), brigadeiro de coco, ganache de limão siciliano, ganache de chocolate meio amargo, ganache de chocolate com laranja.
 
+# Tamanhos e rendimentos
+
+![Tabela de tamanhos e rendimentos](img/bolos_tamanhos_ref.png)
+
+Bolos com massa amanteigada pesam mais. Recheio e decoração influenciam no peso final.
+
+# Sugestões de decoração de bolos verdadeiros de dois andares
+
+![Bolo de andar](img/3_bolo_casamento_2.jpeg)
+![Bolo de andar](img/3_bolo_casamento_3.jpeg)
+![Bolo de andar](img/3_bolo_casamento_4.jpeg)
+
+# Sugestões de decoração de bolos maquete (bolo fake) de três andares
+
+![Bolo de andar](img/3_bolo_casamento_5.jpeg)
+![Bolo de andar](img/3_bolo_casamento_6.jpeg)
+![Bolo de andar](img/3_bolo_casamento_7.jpeg)
+
 <a class="whats" href="https://wa.me/5547992220924">Solicitar orçamento pelo WhatsApp</a>

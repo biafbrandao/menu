@@ -7,7 +7,7 @@ title: Macarons
 
 ## Como pedir
 
-São vendidos em semi pronta entrega, ou seja, não podem ser pedidos no mesmo dia. Após recheados, os macarons descansam 24 horas refrigerados. Assim o recheio penetra na casquinha e a experiência de comer o macaron fica como deve ser: derrete na boca.
+São vendidos em semi pronta entrega, ou seja, não podem ser pedidos no mesmo dia. Após recheados, os macarons descansam 24 horas refrigerados. Assim o recheio penetra na casquinha e a experiência de comer o macaron fica como deve ser crocante por fora, úmido e macio por dentro.
 
 - Pedidos de grande quantidade com 5 dias de antecedência.
 - Pedido mínimo de 8 unidades. Consultar sabores disponíveis.
@@ -22,23 +22,33 @@ São vendidos em semi pronta entrega, ou seja, não podem ser pedidos no mesmo d
 
 ## Sabores
 
-Caramelo salgado, limão siciliano, maracujá, avelã, ninho, doce de leite, ninho com ovomaltine, frutas do bosque, chocolate, chocolate com laranja, coco, pistache, baunilha.
+- Caramelo salgado
+- Limão siciliano
+- Maracujá
+- Avelã
+- Doce de leite
+- Ninho com ovomaltine
+- Frutas do bosque
+- Chocolate
+- Chocolate com laranja
+- Coco
+- Pistache
+- Baunilha
 
 ## Valores
 
 **Unitário, sem caixinha de presente:** R$ 8,00 tradicional / R$ 9,00 personalizado.
 
-**Caixinha de presente com fita de cetim — macaron em pé:**
+**Caixinha de presente com fita de cetim:**
 
 <table>
 <tr><th>Unid.</th><th>Tradicional</th><th>Personalizado</th></tr>
 <tr><td>1</td><td>R$ 11,00</td><td>R$ 12,00</td></tr>
-<tr><td>2</td><td>R$ 20,00</td><td>R$ 21,00</td></tr>
-<tr><td>3</td><td>R$ 28,00</td><td>R$ 29,00</td></tr>
 <tr><td>4</td><td>R$ 38,00</td><td>R$ 40,00</td></tr>
 <tr><td>5</td><td>R$ 46,00</td><td>R$ 49,00</td></tr>
 <tr><td>6</td><td>R$ 52,00</td><td>R$ 58,00</td></tr>
 <tr><td>8</td><td>R$ 68,00</td><td>R$ 76,00</td></tr>
+<tr><td>10</td><td>R$ 86,00</td><td>R$ 96,00</td></tr>
 </table>
 
 **Caixinha com fita — macaron deitado:** 10 unidades por R$ 86,00 (R$ 96,00 personalizado).
@@ -48,7 +58,6 @@ Caramelo salgado, limão siciliano, maracujá, avelã, ninho, doce de leite, nin
 
 ## Torre de macarons
 
-![Torre de macarons](img/1_macarons_torre_1.jpg)
 ![Torre de macarons](img/1_macarons_torre_2.jpg)
 ![Torre de macarons](img/1_macarons_torre_3.jpg)
 
@@ -61,6 +70,6 @@ Caramelo salgado, limão siciliano, maracujá, avelã, ninho, doce de leite, nin
 <tr><td>8</td><td>124</td><td>R$ 1.062</td><td>R$ 1.186</td></tr>
 </table>
 
-No 7 andares, o último andar possui decoração de flores. Devolvendo a base em ótimas condições, o custo dela pode ser reembolsado. Custo das bases: 4 andares R$ 35, 5 andares R$ 40, 6 andares R$ 60, 7 andares R$ 65, 8 andares R$ 70.
+Devolvendo a base em ótimas condições, o custo dela pode ser reembolsado. Custo das bases: 4 andares R$ 35, 5 andares R$ 40, 6 andares R$ 60, 7 andares R$ 65, 8 andares R$ 70.
 
 <a class="whats" href="https://wa.me/5547992220924">Fazer pedido pelo WhatsApp</a>

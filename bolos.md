@@ -19,7 +19,7 @@ Lançamento, novo formato. Massa de cacau 100% com iogurte natural. Recheio de d
 ![Bolo Pudim](img/2_bolo_pudim_1.jpg)
 ![Bolo Pudim](img/2_bolo_pudim_2.jpg)
 
-Long cake, massa amanteigada de baunilha. Recheio com uma camada de cocada cremosa com coco tostado e ameixa ou doce de leite, e outra camada de pudim. Cobertura de chantilly com creme de leite fresco. Decoração com pudim.
+Long cake ou formato redondo, massa amanteigada de baunilha. Recheio com uma camada de cocada cremosa com coco tostado e ameixa ou doce de leite, e outra camada de pudim. Cobertura de chantilly com creme de leite fresco. Decoração com pudim.
 
 **R$ 120,00 o kg.** O tamanho da foto tem aproximadamente 2,6 kg, rende de 15 a 18 fatias.
 
