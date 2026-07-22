@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }} | Bia Brandão</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,700&family=Fraunces:opsz,wght@9..144,500;9..144,600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/style.css' | relative_url }}">
+</head>
+<body>
+  <header>
+    <a href="{{ '/' | relative_url }}">
+      <img class="logo" src="{{ '/img/logo.png' | relative_url }}" alt="Bia Brandão Confeitaria">
+    </a>
+  </header>
+
+  <nav>
+    <a href="{{ '/' | relative_url }}">Início</a>
+    <a href="{{ '/macarons' | relative_url }}">Macarons</a>
+    <a href="{{ '/bolos' | relative_url }}">Bolos</a>
+    <a href="{{ '/bolos-de-casamento' | relative_url }}">Bolos de Casamento</a>
+    <a href="{{ '/tortas-e-sobremesas' | relative_url }}">Tortas &amp; Sobremesas</a>
+  </nav>
+
+  <main>
+    {{ content }}
+  </main>
+
+  <footer>
+    Uma festa sem bolo é só uma reunião.
+  </footer>
+</body>
+</html>
