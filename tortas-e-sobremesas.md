@@ -7,6 +7,8 @@ title: Tortas e Sobremesas
 
 ## Banoffe
 
+![Torta Camila](img/4_torta_banof_4.jpg)
+
 **R$ 115,00 o kg.**
 
 ## Morangoffe
