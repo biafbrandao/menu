@@ -51,8 +51,6 @@ São vendidos em semi pronta entrega, ou seja, não podem ser pedidos no mesmo d
 <tr><td>10</td><td>R$ 86,00</td><td>R$ 96,00</td></tr>
 </table>
 
-**Caixinha com fita — macaron deitado:** 10 unidades por R$ 86,00 (R$ 96,00 personalizado).
-
 - Adicional de flores desidratadas: R$ 4,00.
 - Cores com pigmentos reforçados: valor adicional a combinar.
 
