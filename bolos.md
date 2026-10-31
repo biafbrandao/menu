@@ -7,7 +7,7 @@ title: Bolos
 
 ## Bolo de maracujá com coco
 
-![Bolo Marina](img/bolo_maracuja_12.jpeg)
+![Bolo de maracujá com coco](img/2_bolo_maracuja_1.jpeg)
 
 Massa amanteigada saborizada com extrato de baunilha. Recheio de ganache de maracujá e beijinho de coco. Decoração a combinar.
 
