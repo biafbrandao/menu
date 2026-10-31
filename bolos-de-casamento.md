@@ -17,7 +17,7 @@ O bolo de andar é feito com massa amanteigada mais estruturada e recheios mais 
 
 A degustação é feita com duas opções a combinar. No fechamento do contrato combina-se o pagamento, no mínimo 50% adiantado e o restante até a entrega. Entrega e montagem no local, com aplicação das flores, são cobradas à parte.
 
-**Valores:** R$ 115,00 o kg para bolos de andar e de corte. Cobertura em buttercream R$ 125,00 o kg; cobertura em chantilly R$ 115,00 o kg.
+**Valores:** R$ 120,00 o kg para bolos de andar e de corte. Cobertura em buttercream R$ 125,00 o kg; cobertura em chantilly R$ 120,00 o kg.
 
 ## Opções de massas
 

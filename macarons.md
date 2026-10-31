@@ -17,7 +17,7 @@ São vendidos em semi pronta entrega, ou seja, não podem ser pedidos no mesmo d
 
 ![Macarons](img/1_macarons_1.jpg)
 ![Macarons](img/1_macarons_2.jpg)
-![Macarons](img/1_macarons_3.jpg)
+<!-- ![Macarons](img/1_macarons_3.jpg) -->
 ![Macarons](img/1_macarons_4.jpg)
 
 ## Sabores

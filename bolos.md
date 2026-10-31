@@ -5,6 +5,14 @@ title: Bolos
 
 # Bolos
 
+## Bolo de maracujá com coco
+
+![Bolo Marina](img/bolo_maracuja_12.jpeg)
+
+Massa amanteigada saborizada com extrato de baunilha. Recheio de ganache de maracujá e beijinho de coco. Decoração a combinar.
+
+**R$ 120,00 o kg.**
+
 ## Bolo Lungcake
 
 ![Bolo Lungcake](img/2_bolo_lungcake_1.jpg)
